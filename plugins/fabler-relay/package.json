@@ -1,0 +1,10 @@
+{
+  "name": "fabler-relay-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Fabler Relay — a human-in-the-loop request queue for autonomous agents",
+  "bin": { "fabler-relay-mcp": "mcp/server.js" },
+  "engines": { "node": ">=18" },
+  "repository": "github:fablerlabs/relay",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "human-in-the-loop", "ai-agents", "hitl"],
+  "license": "MIT"
+}
